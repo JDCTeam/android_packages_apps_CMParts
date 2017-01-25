@@ -175,6 +175,7 @@
   <string name="camera_launch_title">Kamera starten</string>
   <string name="camera_launch_summary">Langes Drücken und Loslassen startet die Kamera</string>
   <string name="volbtn_music_controls_title">Wiedergabe steuern</string>
+  <string name="volbtn_music_controls_summary">Bei abgeschaltetem Bildschirm durch langes Drücken der Lautstärketasten zum nächsten / vorherigen Titel springen</string>
   <string name="volbtn_cursor_control_title">Cursorsteuerung</string>
   <string name="volbtn_cursor_control_off">Deaktiviert</string>
   <string name="volbtn_cursor_control_on">Lauter-/Leiser-Taste bewegt den Cursor nach links/rechts</string>
@@ -379,7 +380,7 @@
   <string name="status_bar_quick_qs_pulldown_left">Links</string>
   <string name="status_bar_quick_qs_pulldown_right">Rechts</string>
   <!-- Status bar - Clock -->
-  <string name="status_bar_clock_position_title">Darstellung der Uhr</string>
+  <string name="status_bar_clock_position_title">Position der Uhr</string>
   <string name="status_bar_clock_position_right">Rechts</string>
   <string name="status_bar_clock_position_left">Links</string>
   <string name="status_bar_clock_position_center">Zentriert</string>
@@ -438,11 +439,11 @@
   <string name="display_rotation_270_title">270 Grad</string>
   <!-- Weather -->
   <string name="weather_settings_title">Wetter</string>
-  <string name="weather_settings_no_services_prompt">Keine Wetteranbieterdienste installiert</string>
-  <string name="weather_settings_no_services_summary">Installieren Sie einen Wetteranbieter, um Wetter-Aktualisierungen zu erhalten</string>
+  <string name="weather_settings_no_services_prompt">Keine Wetterdaten-Anbieter installiert</string>
+  <string name="weather_settings_no_services_summary">Installieren Sie einen Wetterdatenanbieter, um Wetter-Aktualisierungen zu erhalten</string>
   <string name="weather_settings_button">Anbieter-Einstellungen</string>
   <string name="weather_settings_activity_not_found">Das Einstellungsmenü dieses Anbieters konnte nicht gestartet werden</string>
-  <string name="weather_settings_add_weather_provider">Wetteranbieter hinzufügen</string>
+  <string name="weather_settings_add_weather_provider">Wetterdatenanbieter hinzufügen</string>
   <string name="weather_settings_general_settings_title">Allgemein</string>
   <string name="weather_settings_providers_title">Anbieter</string>
   <string name="weather_settings_temp_units_title">Temperatureinheit</string>
@@ -477,4 +478,5 @@
   <string name="expanded_desktop_style_hide_navigation">Navigationsleiste ausblenden</string>
   <string name="expanded_desktop_style_hide_both">Beides ausblenden</string>
   <string name="expanded_desktop_nothing_to_show_text">Deaktivieren Sie den Schalter, um den erweiterten Desktop für jede App einzeln anzupassen</string>
+  <!-- Sounds: Charging sounds -->
 </resources>

@@ -380,7 +380,7 @@
   <string name="status_bar_quick_qs_pulldown_left">Esquerda</string>
   <string name="status_bar_quick_qs_pulldown_right">Direita</string>
   <!-- Status bar - Clock -->
-  <string name="status_bar_clock_position_title">Estilo do relógio</string>
+  <string name="status_bar_clock_position_title">Posição do relógio</string>
   <string name="status_bar_clock_position_right">Direita</string>
   <string name="status_bar_clock_position_left">Esquerda</string>
   <string name="status_bar_clock_position_center">Centro</string>
@@ -463,10 +463,11 @@
   <string name="power_save_title">Poupança extrema de bateria</string>
   <string name="power_save_summary">Restringir o desempenho do dispositivo e as atividades em segundo plano para poupar energia</string>
   <string name="auto_power_save_title">Poupança de bateria automática</string>
-  <string name="auto_power_save_summary_on">Ativar automaticamente a poupança de bateria aos %s bateria</string>
+  <string name="auto_power_save_summary_on">Ativar automaticamente a poupança de bateria aos %s por cento de bateria</string>
   <string name="auto_power_save_summary_off">Não ativar automaticamente a poupança de bateria</string>
   <string name="app_perf_profiles_title">Otimização automática</string>
   <string name="app_perf_profiles_summary">Escolher automaticamemte o perfil de desempenho adequado para várias aplicações</string>
+  <string name="auto_power_save_never">Nunca</string>
   <!-- Applications: Expanded desktop -->
   <string name="expanded_desktop_settings_title">Área de trabalho expandida</string>
   <string name="expanded_desktop_settings_summary">Aumente o espaço disponível da sua área de trabalho ocultando a barra de estado, a barra de navegação ou ambos</string>
@@ -477,4 +478,5 @@
   <string name="expanded_desktop_style_hide_navigation">Ocultar a barra de navegação</string>
   <string name="expanded_desktop_style_hide_both">Ocultar ambas as barras</string>
   <string name="expanded_desktop_nothing_to_show_text">Desligue o interruptor para personalizar a sua área de trabalho conforme a aplicação</string>
+  <!-- Sounds: Charging sounds -->
 </resources>
